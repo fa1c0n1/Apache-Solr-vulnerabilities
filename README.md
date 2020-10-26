@@ -1,19 +1,19 @@
 # Apache-Solr-Vulnerability
 Apache Solr Some Exploits  🌟
 
-[CVE-2019-0193](https://github.com/fa1c0n1/Apache-Solr-RCE#cve-2019-0193)
+[CVE-2019-0193](https://github.com/fa1c0n1/Apache-Solr-vulnerabilities#cve-2019-0193)
 
-[CVE-2019-0192](https://github.com/fa1c0n1/Apache-Solr-RCE#cve-2019-0192)
+[CVE-2019-0192](https://github.com/fa1c0n1/Apache-Solr-vulnerabilities#cve-2019-0192)
 
-[CVE-2019-17558](https://github.com/fa1c0n1/Apache-Solr-RCE#cve-2019-17558)
+[CVE-2019-17558](https://github.com/fa1c0n1/Apache-Solr-vulnerabilities#cve-2019-17558)
 
-[CVE-2017-12629](https://github.com/fa1c0n1/Apache-Solr-RCE#cve-2017-12629)
+[CVE-2017-12629](https://github.com/fa1c0n1/Apache-Solr-vulnerabilities#cve-2017-12629)
 
-[CVE-2019-12409](https://github.com/fa1c0n1/Apache-Solr-RCE#cve-2019-12409)
+[CVE-2019-12409](https://github.com/fa1c0n1/Apache-Solr-vulnerabilities#cve-2019-12409)
 
-[CVE-2020-13957](https://github.com/fa1c0n1/Apache-Solr-RCE#cve-2020-13957)
+[CVE-2020-13957](https://github.com/fa1c0n1/Apache-Solr-vulnerabilities#cve-2020-13957)
 
-[CVE-2018-8026](https://github.com/fa1c0n1/Apache-Solr-RCE#cve-2018-8026)
+[CVE-2018-8026](https://github.com/fa1c0n1/Apache-Solr-vulnerabilities#cve-2018-8026)
 
 ## CVE-2019-0193
 Apache Solr DataImportHandler RCE
@@ -243,7 +243,7 @@ python3 -m http.server 8888
 
 ### 工具利用
 
-https://github.com/Rapidsafeguard/Solr-RCE-CVE-2019-0192/blob/master/solr_RCE.py
+https://github.com/Rapidsafeguard/Solr-vulnerabilities-CVE-2019-0192/blob/master/solr_RCE.py
 https://github.com/weTomorrow/solr_poc/blob/master/solr_poc.py
 
 ## CVE-2019-0192
